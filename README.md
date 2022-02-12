@@ -4,7 +4,8 @@ This repository will list some codes of image fusion, including infrared and vis
 
 ## Infrared and visible image fusion
 
-
+- FPDE
+- IFEVIP
 
 ## Medical image fusion
 
