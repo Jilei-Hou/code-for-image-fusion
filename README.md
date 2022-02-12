@@ -30,8 +30,9 @@ This repository will list some codes of image fusion, including infrared and vis
 ## Infrared and visible image fusion
 
 - [FusionGAN](https://github.com/jiayi-ma/FusionGAN)
-
 - [DenseFuse](https://github.com/hli1221/imagefusion_densefuse)
+- [DDcGAN](https://github.com/hanna-xu/DDcGAN)
+- [PMGI](https://github.com/HaoZhang1018/PMGI_AAAI2020)
 
 ## Medical image fusion
 
