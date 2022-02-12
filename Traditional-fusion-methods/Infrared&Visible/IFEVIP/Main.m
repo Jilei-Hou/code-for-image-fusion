@@ -1,8 +1,4 @@
-% This is the main function of the paper "Infrared and Visual Image Fusion 
-% through Infrared Feature Extraction and Visual Information, Infrared Physics & Technology, 2017."
-% Implemented by Zhang Yu (uzeful@163.com).
 
-% clear history and memory
 clc,clear,close all;
 
 QuadNormDim = 512;
@@ -38,11 +34,3 @@ time2=clock;
 T=etime(time2,time1);
 disp(['Time:',num2str(T)]);
 
-
-% 
-% % image fusion
-% result = BGR_Fuse(imgVis, imgIR, QuadNormDim, QuadMinDim, GaussScale, MaxRatio, StdRatio);
-% imwrite(result,['D:\ZhuoMian\research\GTF-master\result\IFEVIP\',num2str(m),'.bmp']);
-
-% show image
-% figure, imshow(result)

@@ -6,6 +6,12 @@ This repository will list some codes of image fusion, including infrared and vis
 
 - FPDE
 - IFEVIP
+- CVT
+- DTCWT
+- GTF
+- LP
+- RP
+- Wavelet
 
 ## Medical image fusion
 
