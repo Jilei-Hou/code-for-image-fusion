@@ -15,7 +15,13 @@ This repository will list some codes of image fusion, including infrared and vis
 
 ## Medical image fusion
 
-
+- ASR
+- DCHWT
+- PCA
+- Structure-Aware
+- VPSN-DDCT
+- Multispectral image fusion by using IHS and provey
+- MST_SR_fusion_toolbox
 
 ## Multi-focus image fusion
 
