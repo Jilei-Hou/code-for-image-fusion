@@ -37,7 +37,16 @@
 
 ## Multi-focus image fusion
 
-
+- CNN
+- dctVar
+- DSIFT
+- DWTDE
+- Focus-Stacking-master
+- gradient-domain-imagefusion-master
+- imagefusion_dllrr-master
+- Multi-Focus-Image-Fusion-in-DCT-Domain-master
+- Multi-focus-image-fusion-using-LP-PCNN-master
+- Quadtree-Based-Multi-focus-Image-Fusion-master
 
 ## Multi-exposure image fusion
 

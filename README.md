@@ -2,7 +2,7 @@ This repository will list some codes of image fusion, including infrared and vis
 
 If you need the evaluation index of image fusion, you can find it [here](https://github.com/Jilei-Hou/metric-for-image-fusion)
 
-Chinese README
+[Chinese README](https://github.com/Jilei-Hou/code-for-image-fusion/blob/master/README_CN.md)
 
 # Traditional fusion methods
 
@@ -29,7 +29,16 @@ Chinese README
 
 ## Multi-focus image fusion
 
-
+- CNN
+- dctVar
+- DSIFT
+- DWTDE
+- Focus-Stacking-master
+- gradient-domain-imagefusion-master
+- imagefusion_dllrr-master
+- Multi-Focus-Image-Fusion-in-DCT-Domain-master
+- Multi-focus-image-fusion-using-LP-PCNN-master
+- Quadtree-Based-Multi-focus-Image-Fusion-master
 
 ## Multi-exposure image fusion
 
