@@ -8,6 +8,8 @@
 
 如果你需要图像融合算法的评估指标可以在[此处](https://github.com/Jilei-Hou/metric-for-image-fusion)找到
 
+如果您有任何问题，可以邮件联系我([houjilei455@gmail.com](mailto:houjilei455@gmail.com))
+
 [English README](https://github.com/Jilei-Hou/code-for-image-fusion#readme)
 
 
@@ -50,7 +52,15 @@
 
 ## Multi-exposure image fusion
 
-
+- amef_dehazing-master
+- DSIFT_EF
+- exposure-fusion-master
+- Ghost-Free MEF using DSIFT and GF
+- gradient-domain-imagefusion-master
+- MEFOPT
+- multi-exposure-image-fusion-master
+- Multi-scale-exposure-fusion-master
+- SPD-MEF
 
 # Deep learning-based fusion methods
 
@@ -60,6 +70,7 @@
 - [DenseFuse](https://github.com/hli1221/imagefusion_densefuse)
 - [DDcGAN](https://github.com/hanna-xu/DDcGAN)
 - [PMGI](https://github.com/HaoZhang1018/PMGI_AAAI2020)
+- [U2Fusion](https://github.com/hanna-xu/U2Fusion)
 
 ## Medical image fusion
 
